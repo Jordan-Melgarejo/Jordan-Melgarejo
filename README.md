@@ -21,11 +21,11 @@ Actualmente cursando la **Licenciatura en Inteligencia Artificial y Robótica** 
 
 | Proyecto | Descripción | Demo / Repositorio | Stack |
 | :--- | :--- | :---: | :--- |
-| **CEDEMOP** | Plataforma web institucional y Campus Virtual LMS con cursos interactivos y gestión de usuarios. | [Demo en Vivo](https://cedemop-pruebas.web.app) · [Código](https://github.com/gordymelgui/cedemop) | JavaScript, CSS3, Firebase Auth, Firestore |
-| **Avenida** | Plataforma e-commerce para indumentaria streetwear con catálogo interactivo, lookbook y checkout. | [Demo en Vivo](https://avenida-gules.vercel.app) · [Código](https://github.com/gordymelgui/avenida) | HTML5, CSS3, JS Vanilla, EmailJS, Vercel |
-| **Raven Store** | Showroom editorial de moda urbana con experiencia inmersiva dark-mode y filtrado dinámico. | [Demo en Vivo](https://gordymelgui.github.io/raven/) · [Código](https://github.com/gordymelgui/raven) | HTML5, CSS3, JS Vanilla, GitHub Pages |
-| **Centinela Py** | Motor ligero de monitorización de recursos (CPU, RAM, red) y despacho automático de alertas. | [Repositorio](https://github.com/gordymelgui/centinela-py) | Python 3, Psutil, Requests, Pytest |
-| **Nexus Consulting** | Portal corporativo de alta gama y dossier ejecutivo interactivo para consultoría de negocios. | [Repositorio](https://github.com/gordymelgui/nexus-consulting) | HTML5 Semántico, CSS Variables, SVG, Modular JS |
+| **CEDEMOP** | Plataforma web institucional y Campus Virtual LMS con cursos interactivos y gestión de usuarios. | [Demo en Vivo](https://cedemop-pruebas.web.app) · [Código](https://github.com/Jordan-Melgarejo/cedemop) | JavaScript, CSS3, Firebase Auth, Firestore |
+| **Avenida** | Plataforma e-commerce para indumentaria streetwear con catálogo interactivo, lookbook y checkout. | [Demo en Vivo](https://avenida-gules.vercel.app) · [Código](https://github.com/Jordan-Melgarejo/avenida) | HTML5, CSS3, JS Vanilla, EmailJS, Vercel |
+| **Raven Store** | Showroom editorial de moda urbana con experiencia inmersiva dark-mode y filtrado dinámico. | [Demo en Vivo](https://Jordan-Melgarejo.github.io/raven/) · [Código](https://github.com/Jordan-Melgarejo/raven) | HTML5, CSS3, JS Vanilla, GitHub Pages |
+| **Centinela Py** | Motor ligero de monitorización de recursos (CPU, RAM, red) y despacho automático de alertas. | [Repositorio](https://github.com/Jordan-Melgarejo/centinela-py) | Python 3, Psutil, Requests, Pytest |
+| **Nexus Consulting** | Portal corporativo de alta gama y dossier ejecutivo interactivo para consultoría de negocios. | [Repositorio](https://github.com/Jordan-Melgarejo/nexus-consulting) | HTML5 Semántico, CSS Variables, SVG, Modular JS |
 
 ---
 
