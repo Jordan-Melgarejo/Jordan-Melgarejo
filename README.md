@@ -1,42 +1,51 @@
 # 👋 Hola, soy Jordan Melgarejo
 
-**Desarrollador Web Frontend | Automatización & Scripting Python | Soporte IT & Infraestructura**  
-📍 Asunción, Paraguay · 💼 Disponible para oportunidades técnicas y remotas
+**Desarrollador Web Jr en Formación | Implementación & Automatización | Soporte IT**  
+📍 Asunción, Paraguay · 💻 Estudiante de Lic. en Inteligencia Artificial y Robótica
 
 ---
 
-## 🚀 Sobre Mí
+## 🎯 Sobre Mí
 
-Soy un profesional enfocado en construir software ágil, funcional y visualmente pulido. Combino desarrollo frontend moderno, automatización de procesos mediante Python y herramientas de inteligencia artificial, y sólida base en soporte de infraestructura informática.
+Soy una persona que está **en constante formación y aprendizaje**. No pretendo definirme como un experto en cada lenguaje o tecnología, sino como alguien pragmático, curioso y resolutivo que sabe **implementar herramientas, conectar piezas y hacer que las cosas funcionen en producción**.
 
-Actualmente cursando la **Licenciatura en Inteligencia Artificial y Robótica** en la Universidad Americana, con formación previa en Ingeniería Informática (UAA), aplicando principios de ingeniería de software, arquitectura defensiva y optimización continua.
+Actualmente curso la **Licenciatura en Inteligencia Artificial y Robótica** en la Universidad Americana (con base formativa previa en Ingeniería Informática en la UAA). 
 
-- 💻 **Desarrollo Frontend:** Construcción de interfaces responsivas de alto impacto, Single Page Applications (SPAs) y aplicaciones conectadas a Firebase/Cloud.
-- ⚙️ **Automatización & Scripting:** Bots de recolección de datos (web scraping), monitorización de sistemas, integración de APIs REST y flujos de trabajo con LLMs.
-- 🛠️ **Soporte IT & Sistemas:** Diagnóstico de redes LAN/Wi-Fi, administración de sistemas Windows/Linux, gestión de cuentas y soporte técnico a usuarios.
+Mi enfoque de trabajo se apoya fuertemente en dos pilares:
+1. **Desarrollo asistido por Inteligencia Artificial:** Utilizo activamente herramientas como **Gemini, OpenCode, Cursor y VS Code** con IA como multiplicadores de productividad para acelerar el desarrollo, refactorizar código, estructurar proyectos y resolver problemas técnicos de manera eficiente.
+2. **Línea de comandos (CLI & Terminal):** Manejo fluido de herramientas CLI en **CMD y PowerShell** (Git CLI, Vercel CLI, Firebase CLI, entornos virtuales) para despliegues, automatizaciones y diagnósticos rápidos del sistema.
 
 ---
 
-## 🌟 Proyectos Destacados
+## 🚀 Lo que Construyo e Implemento
 
-| Proyecto | Descripción | Demo / Enlace | Stack |
+- 🌐 **Desarrollo Web & Frontend:** Construcción de interfaces responsivas y Single Page Applications (SPAs) en JavaScript (ES6+), HTML5 semántico y CSS3 moderno, integrando bases de datos no relacionales y autenticación con Firebase.
+- 🐍 **Scripting & Automatización:** Scripts prácticos en Python para web scraping, monitoreo de infraestructura (uso de CPU/RAM/red) y consumo de APIs REST.
+- 🛠️ **Soporte IT & Conectividad:** Diagnóstico de redes locales (LAN/Wi-Fi), ensamblaje y mantenimiento correctivo/preventivo de computadoras, gestión de sistemas operativos (Windows/Linux) y atención Help Desk.
+
+---
+
+## 🌟 Proyectos Prácticos en Producción
+
+| Proyecto | Tipo | Enlace / Código | Enfoque & Tecnologías |
 | :--- | :--- | :---: | :--- |
-| **Nexus Consulting** | Portal corporativo B2B de alta gama (SPA) con canvas dinámico de partículas y dossier ejecutivo imprimible. | [Demo en Vivo](https://nexus-consulting-web.vercel.app) · [Código](https://github.com/Jordan-Melgarejo/nexus-consulting) | HTML5 Semántico, CSS3 Vanilla, Modular JS, Vercel |
-| **GeoHogar** | Plataforma inmobiliaria con arquitectura serverless, web scraping en Python y asistente de voz con Gemini API. | [Demo en Vivo](https://geo-hogar-7985e.web.app) | JavaScript, Firebase (Firestore/Auth), Python, Gemini API |
-| **aaavenidaaa.com** | Plataforma e-commerce para indumentaria streetwear con catálogo interactivo, dominio propio y checkout por WhatsApp. | [Sitio Oficial](https://aaavenidaaa.com) · [Código](https://github.com/Jordan-Melgarejo/avenida) | HTML5, CSS3, JS Vanilla, Vercel |
-| **CEDEMOP** | Plataforma web institucional y Campus Virtual con aulas interactivas, autenticación y base de datos no relacional. | [Demo en Vivo](https://cedemop-pruebas.web.app) · [Código](https://github.com/Jordan-Melgarejo/cedemop) | JavaScript, CSS3, Firebase Auth, Firestore |
-| **Centinela Py** | Motor ligero de monitorización de recursos de infraestructura (CPU, RAM, red) con alertas automatizadas. | [Repositorio](https://github.com/Jordan-Melgarejo/centinela-py) | Python 3, Psutil, Requests, Pytest |
+| **Nexus Consulting** | Portal Corporativo B2B | [Demo en Vivo](https://nexus-consulting-web.vercel.app) · [Código](https://github.com/Jordan-Melgarejo/nexus-consulting) | SPA modular en Vanilla JS, canvas dinámico de nodos interactivos, diseño responsive y dossier exportable. |
+| **GeoHogar** | Plataforma Inmobiliaria | [Demo en Vivo](https://geo-hogar-7985e.web.app) | Arquitectura serverless con Firebase Firestore/Auth, scraping en Python y asistente de voz con Gemini API. |
+| **aaavenidaaa.com** | E-commerce Streetwear | [Sitio Oficial](https://aaavenidaaa.com) · [Código](https://github.com/Jordan-Melgarejo/avenida) | Despliegue bajo dominio propio en Vercel, optimización móvil y canal comercial directo en WhatsApp Business. |
+| **CEDEMOP** | Portal Institucional & Aulas | [Demo en Vivo](https://cedemop-pruebas.web.app) · [Código](https://github.com/Jordan-Melgarejo/cedemop) | Modernización institucional con Firebase Firestore, autenticación segura y aulas virtuales. |
+| **Centinela Py** | Monitor de Infraestructura IT | [Repositorio](https://github.com/Jordan-Melgarejo/centinela-py) | Script modular en Python para monitorización de hardware y red con alertas automatizadas. |
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Herramientas de Trabajo Diario
 
 ```text
-Frontend:        JavaScript (ES6+), HTML5 Semántico, CSS3 (Flexbox/Grid, Animaciones), SPAs, Vite
-Backend & Cloud: Python 3, Firebase (Firestore, Auth, Hosting), REST APIs, FastAPI (básico)
-Automatización:  Playwright, BeautifulSoup, Web Scraping, Requests, Scripts de Diagnóstico
-Herramientas:    Git, GitHub, VS Code, Cursor, Vercel, Hostinger, Terminal / PowerShell
-Sistemas & Redes:Windows 10/11, Linux (Debian/Ubuntu), Redes LAN, Wi-Fi, TCP/IP, DNS, Help Desk
+Entornos & Asistencia IA: Gemini, OpenCode, Cursor, VS Code, GitHub Copilot
+Línea de Comandos (CLI):  Git CLI, Vercel CLI, Firebase CLI, PowerShell, Windows CMD, Bash básico
+Frontend:                 JavaScript (ES6+), HTML5 Semántico, CSS3 (Flexbox/Grid, Animaciones), SPAs
+Backend & Cloud:          Python 3, Firebase (Firestore, Auth, Hosting), REST APIs, FastAPI (básico)
+Automatización:           Playwright, BeautifulSoup (Scraping), Psutil, Scripts de Diagnóstico
+Sistemas & Redes:         Windows 10/11, Linux (Ubuntu/Debian), Cableado LAN (RJ45), Wi-Fi, Help Desk
 ```
 
 ---
@@ -48,4 +57,4 @@ Sistemas & Redes:Windows 10/11, Linux (Debian/Ubuntu), Redes LAN, Wi-Fi, TCP/IP,
 - **WhatsApp:** [+595 981 271 260](https://wa.me/595981271260)
 
 ---
-<sub>© 2026 Jordan Melgarejo. Todos los derechos reservados.</sub>
+<sub>Construyendo, aprendiendo y mejorando paso a paso. © 2026 Jordan Melgarejo.</sub>
